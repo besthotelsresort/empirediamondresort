@@ -1,0 +1,2 @@
+# empirediamondresort
+Static site: empirediamondresort
