@@ -1,0 +1,4 @@
+Contact: mailto:security@empirediamondresort.example
+Expires: 2027-07-27T12:56:34.126Z
+Preferred-Languages: en, de, fr
+Canonical: https://empirediamondresort.onrender.com/.well-known/security.txt
